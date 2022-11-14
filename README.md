@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 # 🛠 Tech Stack
 
 > skills
-- Back-End : ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
-- Tools : ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA)
+- Back-End : ![Java](https://img.shields.io/badge/-Java-ivory?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Mysql](https://img.shields.io/badge/-Mysql-skyblue?style=flat-circle&logo=mysql)
+- Tools : ![](https://img.shields.io/badge/-GitHub-gray?style=flat-circle&logo=GitHub) ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-gray?style=flat-circle&logo=IntelliJIDEA)
 
 > Language usage
 
