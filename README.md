@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 
-# 🛠 Tech Stack
+# Tech Stack
 
 > skills
-- Back-End : ![Java](https://img.shields.io/badge/-Java-ivory?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Mysql](https://img.shields.io/badge/-Mysql-skyblue?style=flat-circle&logo=mysql)
-- Tools : ![](https://img.shields.io/badge/-GitHub-gray?style=flat-circle&logo=GitHub) ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-gray?style=flat-circle&logo=IntelliJIDEA)
+- 💻 Back-End : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- 🛠 Tools : ![](https://img.shields.io/badge/-GitHub-gray?style=flat-circle&logo=GitHub) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 > Language usage
 
