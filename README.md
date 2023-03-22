@@ -2,7 +2,7 @@
 </br>
 
 # 👨🏻‍💻 "Hello I am a developer with 
-# perseverance, strong will and kindness !"
+patience, persistence, and kindness. !"
 </br>
 </br>
 </br>
